@@ -2,7 +2,8 @@ Drugi tekst JK
 
 Prva promjena
 
-Promjena iz r3_tekstJK4
-Druga promjena iz r3_tekstJK4
+Promjena iz r3_tekstJK4       Josip
+Druga promjena iz r3_tekstJK4 Ivan
+Treca promjena iz r3_tekstJK4 Josip
 
 Prva promjena na r3_tekstJK4 Ivan
