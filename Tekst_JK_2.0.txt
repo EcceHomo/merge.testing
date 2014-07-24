@@ -2,9 +2,17 @@ Drugi tekst JK
 
 Prva promjena
 
+<<<<<<< HEAD
 Promjena iz master (sim bug-a, dok se ostale verzije neovisno razvijaju)
 Promjena iz r3_tekstJK4       Josip
 Druga promjena iz r3_tekstJK4 Ivan
 Treca promjena iz r3_tekstJK4 Josip
 
 Prva promjena na r3_tekstJK4 Ivan
+=======
+<<<<<<< HEAD
+Promjena iz r2_tekstJK3
+=======
+Promjena iz r3_tekstIK5
+>>>>>>> origin/r4_tekstIK5
+>>>>>>> origin/r2_tekstJK3
