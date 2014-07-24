@@ -2,4 +2,8 @@ Drugi tekst JK
 
 Prva promjena
 
+<<<<<<< HEAD
 Promjena iz r2_tekstJK3
+=======
+Promjena iz r3_tekstIK5
+>>>>>>> origin/r4_tekstIK5
